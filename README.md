@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá sou Erika Oliveira Rodrigues
+>sobre mim: sou estudante do 3º ano de informatica na ETEC.
+
 
 <!--
 **Erika-Oliveira842/Erika-Oliveira842** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
