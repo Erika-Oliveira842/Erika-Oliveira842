@@ -1,5 +1,6 @@
 ## Olá sou Erika Oliveira Rodrigues
->sobre mim: sou estudante do 3º ano de informatica na ETEC.
+
+> Sobre mim: sou estudante do 3º ano de informatica na ETEC.
 
 
 <!--
