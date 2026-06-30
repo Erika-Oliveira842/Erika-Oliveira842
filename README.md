@@ -1,6 +1,32 @@
 ## Olá sou Erika Oliveira Rodrigues
 
-> Sobre mim: sou estudante do 3º ano de informatica na ETEC. 
+> # 👋 Olá! Eu sou Erika Oliveira Rodrigues
+
+## Sobre mim
+
+Sou estudante do Curso Técnico em Informática e estou aprendendo programação, Git e GitHub.
+
+---
+
+## 🛠️ Habilidades
+
+| Tecnologia | Nível |
+|------------|--------|
+| HTML | ⭐⭐⭐⭐ |
+| CSS | ⭐⭐⭐ |
+| Git | ⭐⭐ |
+| GitHub | ⭐⭐ |
+
+---
+
+## 🎯 Objetivos
+
+- [x] Criar conta no GitHub
+- [x] Aprender Markdown
+- [x] Publicar meu Currículo Web
+- [ ] Aprender JavaScript
+- [ ] Criar meu portfólio
+
 
 
 <!--
