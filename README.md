@@ -27,7 +27,7 @@ Sou estudante do Curso Técnico em Informática e estou aprendendo programação
 - [ ] Aprender JavaScript
 - [ ] Criar meu portfólio
 
-
+Email para contato: erika.olive00@gmail.com
 
 <!--
 **Erika-Oliveira842/Erika-Oliveira842** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
